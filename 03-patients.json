@@ -1,0 +1,40 @@
+[
+  {
+    "firstname": "Emily",
+    "lastname": "Cooper",
+    "age": 24,
+    "history": [
+      {
+        "disease": "Cough & Cold",
+        "treatment": 6
+      }
+    ]
+  },
+  {
+    "firstName": "sam",
+    "lastName": "Verma",
+    "age": 17,
+    "history": [
+      {
+        "disease": "cold",
+        "treatment": 4
+      },
+      {
+        "disease": "flu",
+        "treatment": 5
+      }
+    ]
+  },
+  {
+    "firstname": "Camille",
+    "lastname": "Razat",
+    "age": 25,
+    "history": [
+      {
+        "disease": "Typhoid",
+        "treatment": 8
+      }
+    ]
+  }
+]
+
