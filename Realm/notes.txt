@@ -1,0 +1,4 @@
+khushboomakhija053
+5kixAx7U64Fs9T3H
+
+mongosh "mongodb+srv://cluster0.5awmaqb.mongodb.net/" --apiVersion 1 --username khushboomakhija053
