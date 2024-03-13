@@ -1,0 +1,10 @@
+CONNECTION TO APPLICATION
+khushboomakhija053
+XgK0Zso2WaT7SG2I
+
+mongodb+srv://khushboomakhija053:<password>@cluster0.err2ett.mongodb.net/?retryWrites=true&w=majority
+
+
+mongosh "mongodb+srv://cluster0.err2ett.mongodb.net/" --apiVersion 1 --username khushboomakhija053
+
+
